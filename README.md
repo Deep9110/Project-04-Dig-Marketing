@@ -10,13 +10,13 @@
 
 ![Completed Website](assets/Completed.png)
 
-## What I learned from this Project?
+## What did i learn from this Project?
 
 - [X] I learned about how to make an interactive Navbar.
 - [X] I also learned how to use **Icons** and **Image-Positioning**.
-- [X] I also learned about **Linear-Gradiant**.
+- [X] I also learned about **Linear-Gradient**.
 - [X] I Learned about How to use **Flex-direction**.
-- [X] I also learned how to use an Image With flex Position.
+- [X] I also learned how to use an Image With a flex Position.
 
 
 > This project took around **4 hours** to complete.
